@@ -9,13 +9,14 @@ div#board {
     margin: auto;
     background: url("images/board.jpg") no-repeat;
     background-size: 900px;
+    left: 80px;
 }
 
 div#messageArea {
     position: absolute;
     top: 0px;
     left: 0px;
-    color: rgb(83,175,19);
+    color: rgb(60, 137, 214);
 }
 
 table {
